@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 ***
 
+RESUME: [목표를 향한 과정을 그리는 개발자](https://www.notion.so/65e5dbbaeeb841f48dfc11766dd207ef)<br/>
 BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
