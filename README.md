@@ -25,3 +25,12 @@ Here are some ideas to get you started:
 RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://www.notion.so/65e5dbbaeeb841f48dfc11766dd207ef)<br/>
 BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
+
+***
+- **Develop Environment** - Window, Linux(Ubuntu)
+- **Language** - Python (using library), C/C++ (Algorithm)
+- **Database** - Oracle database, MySQL
+- **DevOps** - Jenkins, Docker, Kubernetes
+- **Virtualization** - VMware, Oracle VirtualBox
+- **Version Control** - Git, Github, SourceTree
+- **Communication** - Notion, Slack
