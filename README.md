@@ -30,5 +30,5 @@ YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVC
 - **DevOps** - Docker, Kubernetes
 - **Virtualization** - VMware, Oracle VirtualBox
 - **Version Control** - Git, Github, SourceTree
-- **Communication** - Notion, Slack, Asana, Trello
+- **Collaboration** - Slack, Notion, Asana, Trello
 ***
