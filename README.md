@@ -25,7 +25,7 @@ YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVC
 ***
 #### 🌱Skills
 - **Develop Environment** - Window, Linux(Ubuntu)
-- **Language** - Python (using library), C/C++ (Algorithm), Java(Android Studio)
+- **Language** - Python(Library), C/C++(Algorithm), Matlab(Math), Java(Android Studio)
 - **Database** - Oracle Live SQL, MySQL
 - **DevOps** - Docker, Kubernetes
 - **Virtualization** - VMware, Oracle VirtualBox
