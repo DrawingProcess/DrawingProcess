@@ -24,7 +24,7 @@ BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
 ***
 #### 🌱Skills
-- **Develop Environment** - Window, Linux(Ubuntu)
+- **Develop Environment** - Window, Linux(Ubuntu, Raspbian)
 - **Language** - Python(Library), C/C++(Algorithm), Matlab(Math), Java(Android Studio)
 - **Database** - Oracle Live SQL, MySQL
 - **DevOps** - Docker, Kubernetes
