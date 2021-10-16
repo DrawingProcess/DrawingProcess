@@ -19,17 +19,17 @@ Here are some ideas to get you started:
 ![Seongjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrawingProcess&count_private=true&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrawingProcess&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ***
-### Introduce
+### 🧑🏻‍💻 Introduce
+<!-- RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://drawingprocess.github.io/)<br/> -->
 RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://www.notion.so/6114dce07437453ea72b2d003efd24fd)<br/>
-PROFILE: [과정을 그려가는 개발자, 최성준입니다.](https://drawingprocess.github.io/)<br/>
 BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 YOUTUBE: [드프 drawProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
 ***
-### Work experience
+### 💻 Work experience
 #### V2X Research Institute
 AUTOCRYPT, Seoul, Korea – (Aug 2021 - Present)
 ***
-### 🌱Skills
+### 🌱 Skills
 - **Develop Environment** - Window, MAC, Linux
 - **Language** - Python, C/C++
 - **Database** - Oracle Live SQL, MySQL
