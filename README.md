@@ -34,6 +34,6 @@ Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Present)
 - **Language** - Python, C/C++
 - **DevOps** - Docker, Kubernetes
 - **Virtualization** - VMware, VirtualBox
-- **Version Control** - Git, Github, SourceTree
+- **Version Control** - Github, SourceTree
 - **Collaboration** -  Jira, Slack, Asana, Trello, Confluence, Notion
 ***
