@@ -24,7 +24,7 @@ Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Present)
 ### 🌱 Skills
 - **Develop Environment** - Window, MAC, Linux
 - **Language** - Python, C/C++
-- **DevOps** - Docker, Kubernetes
+- **DevOps** - Docker
 - **Version Control** - Github, SourceTree
 - **Collaboration** -  Jira, Slack, Asana, Trello, Confluence, Notion
 ***
