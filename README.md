@@ -22,9 +22,11 @@ YOUTUBE: [DrawingProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJC
 Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Present)
 ***
 ### 🌱 Skills
-- **Develop Environment** - Window, MAC, Linux
 - **Language** - Python, C/C++
+<!--
+- **Develop Environment** - Window, MAC, Linux
 - **DevOps** - Docker
 - **Version Control** - Github, SourceTree
 - **Collaboration** -  Jira, Slack, Asana, Trello, Confluence, Notion
+-->
 ***
