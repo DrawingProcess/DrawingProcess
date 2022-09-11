@@ -18,7 +18,7 @@ BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 YOUTUBE: [DrawingProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
 ***
 ### 💻 Work experience
-#### Mobile Server Developer: V2X Research
+#### Mobile Server Developer: V2X App
 Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Present)
 ***
 ### 🌱 Skills
