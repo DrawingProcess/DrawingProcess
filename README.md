@@ -2,15 +2,6 @@
 
 ***
 
-<p align="center">
-<a href="https://github.com/DrawingProcess">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DrawingProcess&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DrawingProcess&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</a>
-</p>
-
-***
-
 ### 🧑🏻‍💻 Introduce
 
 <!-- RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://drawingprocess.github.io/)<br/> -->
