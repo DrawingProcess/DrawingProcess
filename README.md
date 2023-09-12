@@ -13,7 +13,7 @@ YOUTUBE: [DrawingProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJC
 
 ### 💻 Work experience
 #### V2X Research
-Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Jul 2023)
+Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Aug 2023)
 - Research various methodologies for LMBD and GMBD and define MBD standards in ITS-K
 - Research V2X Communication Service Using C-ITS Message and implement Smart Cross events
 - Implement communication of Local Station service, that shares object streaming data detected by CCTV
