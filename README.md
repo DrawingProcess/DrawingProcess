@@ -6,6 +6,7 @@
 
 <!-- RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://drawingprocess.github.io/)<br/> -->
 - RESUME: [과정을 그려가는 개발자, 최성준입니다.](https://www.notion.so/6114dce07437453ea72b2d003efd24fd)<br/>
+- LinkedIn: [Seongjun Choi](https://www.linkedin.com/in/seongjun-choi-60b718205/)<br/>
 - BLOG: [Drawing Process](https://csj000714.tistory.com/)<br/>
 - YOUTUBE: [DrawingProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJCqw)<br/>
 
