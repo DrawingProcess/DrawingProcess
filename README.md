@@ -12,6 +12,25 @@ YOUTUBE: [DrawingProcess](https://www.youtube.com/channel/UC61RSyqJK8I42EyVCSlJC
 ***
 
 ### 💻 Work experience
+#### KHU Visual AI Lab
+Kyung-Hee University, Yong-in, Korea – (Mar 2024 -)
+- Keywords: NeRF, Gaussian Splat, Few Shot
+
+#### Autonomous Intelligence Lab
+ETRI, Daejeon, Korea – (Jan 2024 - Feb 2024)
+- Keywords: Instanse Segmentation, Mono Depth Estimation, Pseudo LiDAR, Optimization
+- Improve 3D OD performance with Depth Estimation of Interests Based on Instance Seg.
+- 4% performance improvement + About 50ms per frame
+
+#### General Robot SW Developer
+AuTURBO, Korea – (Mar 2023 - May 2024)
+- [Manager] 실외배달로봇 Perception 부문 팀장(23.11. - 24.04.)
+- [Project] 배달의 민족 로봇 배달 챌린지 시뮬레이션부문(23.09. - 23.10.)
+  - 성과 발표: https://www.youtube.com/watch?v=SbUffHFqc04 (2:46:50)
+- [Project] 국민대 자율주행 경진대회 (23.09. - 23.10.)
+  - 성과 발표: https://www.youtube.com/watch?v=SbUffHFqc04 (2:18:00)
+- [Study] ROS2 스터디 진행 (23.04. - 23.07.)
+  
 #### V2X Research
 Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Aug 2023)
 - Research various methodologies for LMBD and GMBD and define MBD standards in ITS-K
@@ -21,7 +40,7 @@ Pentasecurity Systems, Seoul, Korea – (Aug 2021 - Aug 2023)
 ***
 
 ### 🌱 Skills
-- **Domain** - V2X, Telecommunication, AI, Vision
+- **Domain** - 3D Vision, NeRF, V2X
 - **Language** - python, C/C++
 <!--
 - **Develop Environment** - Window, MAC, Linux
